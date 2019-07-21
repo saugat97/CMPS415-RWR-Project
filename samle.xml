@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <Date>2019-04-29T19:07:25.582Z</Date>
+      <FirstName>Billy</FirstName>
+      <LastName>Jorden</LastName>
+      <Major>Bacholer</Major>
+      <__v>0</__v>
+      <_id>5cc74b6d02d310048c65d97d</_id>
+      <isFullTime>true</isFullTime>
+   </element>
+   <element>
+      <Date>2019-04-29T19:18:15.312Z</Date>
+      <FirstName>Mike</FirstName>
+      <LastName>Gill</LastName>
+      <Major>IT</Major>
+      <__v>0</__v>
+      <_id>5cc74df7146afe3d6cd011a5</_id>
+      <isFullTime>true</isFullTime>
+   </element>
+   <element>
+      <Date>2019-04-29T19:18:37.959Z</Date>
+      <FirstName>Josh</FirstName>
+      <LastName>Hayden</LastName>
+      <Major>HS</Major>
+      <__v>0</__v>
+      <_id>5cc74e0dc5752f403c734fba</_id>
+      <isFullTime>true</isFullTime>
+   </element>
+</root>
